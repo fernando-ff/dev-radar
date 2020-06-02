@@ -1,4 +1,9 @@
-const mongoose = require('mongoose');
+/*==================================================
+    Um tipo de dado para entidades
+=====================================================*/
+
+const mongoose = require('mongoose');//Importando o mongoose
+
 
 const PointSchema = new mongoose.Schema({
     type: {
@@ -11,5 +16,5 @@ const PointSchema = new mongoose.Schema({
         required: true,
     },
 });
-
+//Exportando 
 module.exports = PointSchema;

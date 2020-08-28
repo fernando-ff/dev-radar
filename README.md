@@ -35,7 +35,7 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/fernando-ff" target="_blank">Author</a>
 </p>
 
 <br>
@@ -52,7 +52,7 @@ DevRadar is a platform for devs find another devs that desire making new netwoek
 :heavy_check_mark: Filter Devs;\
 :heavy_check_mark: Find devs around;
 
-## :sparkles : Project Images ##
+## :sparkles: Project Images ##
 
 <img src="./assets/devradar.png" />
 
@@ -64,11 +64,6 @@ The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
 
 
 Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
